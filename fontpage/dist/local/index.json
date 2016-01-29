@@ -1,0 +1,9 @@
+[
+  {"div_id": "git", "img_path": "dist/img/git.png","tools_title":"GIT","useage":"版本控制","tools_link":"http://192.168.8.58:10000/git"},
+  {"div_id": "cynthia", "img_path": "dist/img/icons/png/Toilet-Paper.png","tools_title":"Cynthia","useage":"缺陷管理","tools_link":"http://192.168.8.58:10080/cynthia"},
+  {"div_id": "Jenkins", "img_path": "dist/img/icons/png/Toilet-Paper.png","tools_title":"Jenkins","useage":"持续集成工具","tools_link":"http://192.168.8.58:8080"},
+  {"div_id": "scrum", "img_path": "dist/img/icons/png/Toilet-Paper.png","tools_title":"icescrum","useage":"敏捷Scrum管理工具","tools_link":"http://192.168.8.58:9999/scrum"},
+  {"div_id": "nexus", "img_path": "dist/img/icons/png/Toilet-Paper.png","tools_title":"nexus","useage":"Maven 代理服务器","tools_link":"http://192.168.8.58:8081/nexus/"},
+  {"div_id": "baidu", "img_path": "dist/img/icons/png/Toilet-Paper.png","tools_title":"百度","useage":"搜一搜更健康","tools_link":"http://www.baidu.com"},
+  {"div_id": "GitHub", "img_path": "dist/img/icons/png/Toilet-Paper.png","tools_title":"AMCFounder","useage":"我的同性交友社区","tools_link":"https://github.com/amcfounder/"}
+]

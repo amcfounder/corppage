@@ -1,0 +1,11 @@
+{
+  "name": "Useful tools page for AMC",
+  "version": "0.0.1",
+  "description": "use jsx&react to rewrite the useful tools page of AMC",
+  "scripts": {
+    "start": "webpack -w -d",
+    "build": "NODE_ENV=production webpack -d"
+  },
+  "author": "Ethan.Lin<3051658671@qq.com or linjian831004@gmail.com>",
+  "license": "MIT"
+}
